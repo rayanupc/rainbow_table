@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# This file contains the code to execute the python function that produces the rainbow table method
+
 if [ $# -ne 1 ]; then
   echo "Usage : $0 <hash_sha1>"
   exit 1

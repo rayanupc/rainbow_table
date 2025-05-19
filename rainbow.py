@@ -1,3 +1,5 @@
+# This file contains the python code that produces the rainbow table method.
+
 import hashlib       # Used for SHA-1 hashing
 import random        # Used to generate random passwords
 import string        # Provides string constants like ascii_lowercase
